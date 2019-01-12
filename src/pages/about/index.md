@@ -3,7 +3,7 @@ templateKey: about-page
 title: Team Tarak
 mainImage:
   image: /img/teamtarak.jpg
-  imageAlt: ''
+  imageAlt: 'Tarak'
 gallery:
   - image: /img/volunteer.jpeg
 developerGroups: 'Similar Groups:'
