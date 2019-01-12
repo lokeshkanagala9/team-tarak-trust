@@ -16,7 +16,7 @@ callToActions:
     linkURL: /meetups
     subHeading: 'ఇంతకు ముందు జరిగిన కార్యక్రమాలు '
   secondCTA:
-    heading: Come Join Us. Become a Volunteer.
+    heading: Come Join Us.
     linkType: external
     linkURL: 'mailto:contact@js-wakanda.org'
     subHeading: >-
