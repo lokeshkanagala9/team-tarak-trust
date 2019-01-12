@@ -6,6 +6,7 @@ headerImage:
 line1: 'చేయి చేయి కలుపుదాం...చేయూతనిద్దాం '
 line2: 'అడుగు అడుగు కలసివేసి... ఆనందాలని నింపుదాం '
 line3: 'మనం చేసే ప్రతీ మంచి పనికి...మన తారక రాముని పేరు పెడదాం '
+line4: 'మన'
 upcomingMeetupHeading: Upcoming Event
 noUpcomingMeetupText: Details to be announced.
 mapsNote: >-

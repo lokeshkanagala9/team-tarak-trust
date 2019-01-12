@@ -29,6 +29,9 @@ export const HomePageTemplate = ({ home, upcomingMeetup = null }) => {
             <div>
             <div className="header-taglinePart">{home.line3}</div>
             </div>
+            <div>
+            <div className="header-taglinePart">{home.line4}</div>
+            </div>
           </h1>
         </div>
       </section>
@@ -188,6 +191,7 @@ export const pageQuery = graphql`
             line1
             line2
             line3
+            line4
             headerImage {
               image
               imageAlt
