@@ -39,21 +39,22 @@
   }
 
   &-tagline {
-    @include xlarge-font();
+    @include medium-font();
     color: $body-light;
-    width: 400px;
+    width: 100%;
     text-align: center;
     cursor: default;
 
     @include respond-to("small") {
       flex-basis: 430px;
       text-align: left;
-      width: 50%;
+      width: 100%;
       align-items: flex-start;
     }
 
     @include respond-to("medium") {
-      flex-basis: 500px;
+      flex-basis: 700px;
+      text-align: center;
     }
   }
 

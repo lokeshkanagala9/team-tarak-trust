@@ -19,9 +19,17 @@ export const HomePageTemplate = ({ home, upcomingMeetup = null }) => {
       <section className="header">
         <div className="header-container  container">
           {home.headerImage && <img className="header-image" style={{borderRadius: '50%'}} src={home.headerImage.image} alt={home.headerImage.imageAlt} />}
-          <h3 className="header-tagline">
-            <span className="header-taglinePart">{home.title}</span>
-          </h3>
+          <h1 className="header-tagline">
+            <div>
+            <div className="header-taglinePart">{home.line1}</div>
+            </div>
+            <div>
+            <div className="header-taglinePart">{home.line2}</div>
+            </div>
+            <div>
+            <div className="header-taglinePart">{home.line3}</div>
+            </div>
+          </h1>
         </div>
       </section>
       <section className="upcomingMeetup  section">
@@ -177,7 +185,9 @@ export const pageQuery = graphql`
       edges {
         node {
           frontmatter {
-            title
+            line1
+            line2
+            line3
             headerImage {
               image
               imageAlt
