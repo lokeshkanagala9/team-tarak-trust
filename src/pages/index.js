@@ -18,7 +18,7 @@ export const HomePageTemplate = ({ home, upcomingMeetup = null }) => {
     <>
       <section className="header">
         <div className="header-container  container">
-          {home.headerImage && <img className="header-image" src={home.headerImage.image} alt={home.headerImage.imageAlt} />}
+          {home.headerImage && <img className="header-image" style={{borderRadius: '50%'}} src={home.headerImage.image} alt={home.headerImage.imageAlt} />}
           <h3 className="header-tagline">
             <span className="header-taglinePart">{home.title}</span>
           </h3>
