@@ -6,9 +6,11 @@ headerImage:
 line1: 'చేయి చేయి కలుపుదాం...చేయూతనిద్దాం '
 line2: 'అడుగు అడుగు కలసివేసి... ఆనందాలని నింపుదాం '
 line3: 'మనం చేసే ప్రతీ మంచి పనికి...మన తారక రాముని పేరు పెడదాం '
-upcomingMeetupHeading: Upcoming Meetup
+upcomingMeetupHeading: Upcoming Event
 noUpcomingMeetupText: Details to be announced.
-mapsNote: Clicking the pin opens Google Maps in a new tab.
+mapsNote: >-
+  మ్యాప్ లో ఉన్న పిన్ పైన క్లిక్ చేస్తే....కొత్త ట్యాబ్ లో గూగుల్ మ్యాప్స్ 
+  ఓపెన్ అవుతుంది.
 callToActions:
   firstCTA:
     heading: Previous Events
