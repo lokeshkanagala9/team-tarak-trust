@@ -19,7 +19,7 @@ export const AboutPageTemplate = props => {
             <h1 className="about-title">{page.frontmatter.title}</h1>
           </div>
           <div className="about-imageWrapper">
-            <img src={page.frontmatter.mainImage.image} alt={page.frontmatter.mainImage.imageAlt} />
+            <img src={page.frontmatter.mainImage.image} alt="Tarak" />
           </div>
         </section>
         <section className="section">
@@ -33,7 +33,7 @@ export const AboutPageTemplate = props => {
           <ul className="about-gallery  galleryList">
             {page.frontmatter.gallery.map((galleryImage, index) => (
               <li key={index} className="galleryList-item">
-                <img src={galleryImage.image} alt={galleryImage.imageAlt} />
+                <img src={galleryImage.image} alt="Image" />
               </li>
             ))}
           </ul>
@@ -53,7 +53,7 @@ export const AboutPageTemplate = props => {
                 <img
                   className="organizers-listItemImage"
                   src={galleryImage.image}
-                  alt={galleryImage.imageAlt}
+                  alt="Image"
                 />
                 <span className="organizers-listItemName">{galleryImage.name}</span>
               </li>
@@ -99,18 +99,15 @@ export const aboutPageQuery = graphql`
         title
         mainImage {
           image
-          imageAlt
         }
         gallery {
           image
-          imageAlt
         }
         developerGroups
         organizers {
           title
           gallery {
             image
-            imageAlt
             name
           }
         }
