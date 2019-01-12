@@ -1,8 +1,8 @@
 ---
 templateKey: home-page
 headerImage:
-  image: /img/television.png
-  imageAlt: JavaScript Wakanda
+  image: /img/ntrjr.jpg
+  imageAlt: NTR JR
 title: Meet other JavaScript Developers in Wakanda
 upcomingMeetupHeading: Upcoming Meetup
 noUpcomingMeetupText: Details to be announced.
