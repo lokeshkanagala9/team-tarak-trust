@@ -1,6 +1,7 @@
 ---
 templateKey: past-meetups-page
 title: Past Events
+path: /meetups
 seo:
   browserTitle: Past Events | Team Tarak
   description: View the volunteer activities that are done in the past.
