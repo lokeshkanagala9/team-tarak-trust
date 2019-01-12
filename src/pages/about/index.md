@@ -6,7 +6,7 @@ mainImage:
   imageAlt: ''
 gallery:
   - image: /img/volunteer.jpeg
-developerGroups: Similar Groups
+developerGroups: 'Similar Groups:'
 organizers:
   title: ''
   gallery: []
