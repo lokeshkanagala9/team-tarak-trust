@@ -11,20 +11,21 @@ noUpcomingMeetupText: Details to be announced.
 mapsNote: Clicking the pin opens Google Maps in a new tab.
 callToActions:
   firstCTA:
-    heading: Past Meetups
+    heading: Previous Events
     linkType: internal
     linkURL: /meetups
-    subHeading: Look at what topics were presented at past meetups.
+    subHeading: 'ఇంతకు ముందు జరిగిన కార్యక్రమాలు '
   secondCTA:
-    heading: Volunteer to Present
+    heading: Come Join Us. Become a Volunteer.
     linkType: external
     linkURL: 'mailto:contact@js-wakanda.org'
-    subHeading: Want to present at an upcoming meetup? Contact us.
+    subHeading: >-
+      మీరు కూడా సేవ కార్యక్రమము జరపాలి అనుకుంటుంతే మాకు తెలియజేయండి. 
+      ఓబా..ఒక్కడివే సహాయం చేస్తే అది ఉపకారం..మనం అందరం కలిసి చేస్తే అదే ఆ
+      సమ్యస్యకి పరిష్కారం.
 seo:
-  browserTitle: JS Wakanda
-  description: >-
-    JavaScript meetup group in Wakanda where JavaScript developers get together
-    for presentations and to meet others in the community.
-  title: JavaScript Wakanda
+  browserTitle: Team Tarak
+  description: Team Tarak is a friendly organization that is set up to help people in need.
+  title: Team Tarak
 ---
 
