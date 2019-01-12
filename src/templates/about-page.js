@@ -33,7 +33,7 @@ export const AboutPageTemplate = props => {
           <ul className="about-gallery  galleryList">
             {page.frontmatter.gallery.map((galleryImage, index) => (
               <li key={index} className="galleryList-item">
-                <img src={galleryImage.image} alt="Image" />
+                <img src={galleryImage.image} alt="GalleryImage" />
               </li>
             ))}
           </ul>
