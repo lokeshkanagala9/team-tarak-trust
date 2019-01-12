@@ -1,9 +1,9 @@
 ---
 templateKey: footer
 logoImage:
-  image: /img/js-wakanda.png
-  imageAlt: JavaScript Wakanda
-  tagline: Your friendly local Wakanda meetup
+  image: /img/screen-shot-2019-01-12-at-3.38.53-am.png
+  imageAlt: Team Tarak
+  tagline: Your friendly fraternity of NTR fans.
 socialLinks:
   - image: /img/meetup.svg
     imageAlt: Join us on meetup.com
