@@ -5,7 +5,7 @@ headerImage:
   imageAlt: NTR JR
 line1: 'చేయి చేయి కలుపుదాం...చేయూతనిద్దాం '
 line2: 'అడుగు అడుగు కలసివేసి... ఆనందాలని నింపుదాం '
-line3: 'మన మంచి పనికి...మన తారక రాముని పేరు పెడదాం '
+line3: 'మనం చేసే మంచి పనికి...మన తారక రాముని పేరు పెడదాం '
 upcomingMeetupHeading: Upcoming Meetup
 noUpcomingMeetupText: Details to be announced.
 mapsNote: Clicking the pin opens Google Maps in a new tab.
